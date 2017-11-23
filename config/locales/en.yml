@@ -33,5 +33,11 @@ en:
   app_title: My Notes
   app_description: A place where you can keep all of your notes
 
-  title: My Notes
-  welcome: Welcome to my notes site!
+  home:
+    contact:
+      title: My Notes
+      contact_us: Complete the following forms to get in contact with us
+
+    home:
+      title: My Notes
+      welcome: Welcome to my notes site!
